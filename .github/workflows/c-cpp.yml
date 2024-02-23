@@ -11,6 +11,11 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    run:
+      useing: 'node20'
+
+
+
     steps:
     - uses: actions/checkout@v3
     - name: configure
