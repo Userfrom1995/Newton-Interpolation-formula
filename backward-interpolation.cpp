@@ -70,4 +70,3 @@ int main() {
     cout << "\n Value at " << value << " is " << sum << endl;
     return 0;
 }
-/
